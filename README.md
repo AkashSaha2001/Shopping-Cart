@@ -9,5 +9,5 @@ This project is a simple Shopping Cart application that allows users to add item
 </ul>
 
 ## Demo
-Project it live at <a href="https://akashsaha2001.github.io/Shopping-Cart/">here</a>
+Project is live at <a href="https://akashsaha2001.github.io/Shopping-Cart/">here</a>
 ![Screenshot 2024-06-28 010746](https://github.com/AkashSaha2001/Shopping-Cart/assets/91005784/57fd83ce-573f-4d23-bb08-1a4743a3239f)
